@@ -1,2 +1,2 @@
 # flight-school
-learn to fly
+learn to fly away
